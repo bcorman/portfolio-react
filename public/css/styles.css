@@ -72,6 +72,40 @@ i:hover {
   color: blue;
 }
 
+                                      /* About Page */
+
+.about-page {
+  padding: 4em 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.about-page article {
+  margin: 4em 0;
+  display: flex;
+}
+
+.bio-copy {
+  margin-left: 2em;
+  font-size: 1.618em;
+  width: 30%;
+}
+
+                                      /* Portfolio Styles */
+
+.portfolio-page {
+  display: flex;
+  justify-content: center;
+}
+
+                                      /* Contact Styles */
+
+.contact-page {
+  display: flex;
+  justify-content: center;
+}
 
                                       /* Footer Styles */
 
